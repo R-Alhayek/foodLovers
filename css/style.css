@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+header {
+    background-color: rgba(255, 229, 72, 255);
+    padding: 15px;
+}
+span {
+    display: inline-block;
+    background-color: azure;
+    padding:2px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+h1 {
+    text-align: center;
+    color: red;
+    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+}
+/* main {
+    background-image: url('images/background.jfif');
+} */
+
+#myForm {
+    display: inline-block;
+    background-color:rgba(255, 229, 72, 255) ;
+    padding: 75px;
+    margin: 50px;
+    border-radius: 5px;
+}
+
+#container {
+    background-color:rgba(255, 229, 72, 255) ;
+    display: inline-block;
+    border-radius: 5px; 
+    padding: 50px;
+}
+
+tr {
+    background-color: rgb(243, 243, 167) ; 
+    
+    border: 2px solid red;
+}
+
+#userName {
+    color: red;
+    font-family: 'Fredoka One', cursive;
+}
+
+#foodType1 {
+    color: red;
+    font-family: 'Fredoka One', cursive;  
+}
+
+#submit {
+    background-color: red;
+    float: right;
+}
